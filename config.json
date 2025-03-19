@@ -1,0 +1,14 @@
+{
+  "name": "Light Control",
+  "version": "1.0",
+  "slug": "light_control",
+  "description": "Control lights via Python script",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {},
+  "ports": {},
+  "ports_description": {},
+  "image": "homeassistant/amd64-base"
+}
