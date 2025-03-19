@@ -1,5 +1,5 @@
 {
-  "name": "Light Control",
+  "name": "Light control",
   "version": "1.0",
   "slug": "light_control",
   "description": "Control lights via Python script",
